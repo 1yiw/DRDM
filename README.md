@@ -1,8 +1,8 @@
-# DRDM: Enhancing Drug Repositioning with Dual-View Contrastive Learning and Debiasing Mechanism
+# Adaptive debiasing learning for drug repositioning
 This is our PyTorch implementation of DRDM for drug repositioning associated with:
 
->**DRDM: Enhancing Drug Repositioning with Dual-View Contrastive Learning and Debiasing Mechanism,**  
->Wang et al 
+>**Adaptive debiasing learning for drug repositioning,**  
+>Meng et al 
  
 ## Environment Requirement
 - python==3.7.7
@@ -14,8 +14,11 @@ This is our PyTorch implementation of DRDM for drug repositioning associated wit
 ## Usage
 - run main.py
 ### **If you find our codes helpful, please kindly cite the following paper. Thanks!**
-	@article{DRDM,
-	  title={DRDM: Enhancing Drug Repositioning with Dual-View Contrastive Learning and Debiasing Mechanism},
-	  author={Wang et al},
-	  year={2024},
-	}
+	@article{meng2025adaptive,
+          title={Adaptive debiasing learning for drug repositioning},
+          author={Meng, Yajie and Wang, Yi and Hu, Xinrong and Lu, Changcheng and Tang, Xianfang and Cui, Feifei and Zeng, Pan and Yao, Yuhua and Yang, Jialiang and Xu, Junlin},
+          journal={Journal of Biomedical Informatics},
+          pages={104843},
+          year={2025},
+          publisher={Elsevier}
+        }
